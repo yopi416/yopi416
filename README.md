@@ -11,7 +11,7 @@
   (技術検証・ユースケース検討・プロトタイプ開発・お客様提案・PoC実施等)
 
 現在（2025年11月）、ソフトウェア開発企業への転職活動を行っています。  
-ご連絡は下記までお願いします。  
+ご連絡事項がございましたら、下記までお願いいたします。  
 📩 **tomohiro.yoshida.ty@outlook.jp**
 <br><br>
 
@@ -20,7 +20,7 @@
 マインドマップとカンバンボードを連携させた、個人用タスク管理ツールを開発しました。   
 フロントエンド(Typescript/React/Tailwind/React Flow)：https://github.com/yopi416/mind-kanban-web <br>
 バックエンド(Go)：https://github.com/yopi416/mind-kanban-backendb <br>
-紹介動画：Coming Soonb <br>
+紹介動画：Coming Soon <br>
 ※ 開発物の詳細は上記リポジトリの README に記載有
 <br><br>
 
