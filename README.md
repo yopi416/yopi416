@@ -19,7 +19,7 @@
 
 マインドマップとカンバンボードを連携させた、個人用タスク管理ツールを開発しました。   
 フロントエンド(Typescript/React/Tailwind/React Flow)：https://github.com/yopi416/mind-kanban-web <br>
-バックエンド(Go)：https://github.com/yopi416/mind-kanban-backendb <br>
+バックエンド(Go)：https://github.com/yopi416/mind-kanban-backend <br>
 紹介動画：Coming Soon <br>
 ※ 開発物の詳細は上記リポジトリの README に記載有
 <br><br>
