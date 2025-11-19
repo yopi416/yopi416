@@ -18,8 +18,13 @@
 ## 個人開発物
 
 マインドマップとカンバンボードを連携させた、個人用タスク管理ツールを開発しました。   
-フロントエンド(Typescript/React/Tailwind/React Flow)：https://github.com/yopi416/mind-kanban-web <br>
+
+【github】   
+フロントエンド(Typescript/React/Tailwind/React Flow)： https://github.com/yopi416/mind-kanban-web <br/>
 バックエンド(Go)：https://github.com/yopi416/mind-kanban-backend <br>
+<br/>
+
+【紹介動画】  
 紹介動画（利用イメージ）：https://drive.google.com/file/d/10dDOswrx0erzBTTzMRiClXx8ac2xo5kj/view?usp=drive_link <br>
 紹介動画（その他機能）：https://drive.google.com/file/d/1nhqyQ9MFGUwR5_mtTHsjOyMazjuckovQ/view?usp=sharing <br>
 ※ 開発物の詳細は上記リポジトリの README に記載有
@@ -43,7 +48,7 @@
 　　
 ## 保有資格・特許
 
-> 保有資格
+### 保有資格
 
 | 資格名                                             | 取得日        |
 | -------------------------------------------------- | ------------- |
@@ -54,10 +59,11 @@
 | 応用情報技術者                                     | 2021 年 12 月 |
 | ネットワークスペシャリスト                         | 2022 年 6 月  |
 
-　　
-> 特許
+### 特許
 
 属性ベース暗号を応用した、動画や文書ファイルに含まれる個人情報・機密データを保護する技術を開発。  
 ⇒ 現在、特許出願手続き中
+
+## 自己紹介
 
 
