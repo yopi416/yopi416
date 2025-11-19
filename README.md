@@ -56,7 +56,7 @@
 | 普通自動車第一種運転免許                           | 2015 年 8 月  |
 | Cisco Certified Network Associate (CCNA) ※失効済み | 2021 年 6 月  |
 | LinuC レベル 1                                     | 2021 年 8 月  |
-| AWS Certified Cloud Practitioner　　　　　　　　　　| 2021 年 8 月  |
+| AWS Certified Cloud Practitioner　※失効済み　　　　| 2021 年 8 月  |
 | 基本情報技術者                                     | 2021 年 11 月 |
 | 応用情報技術者                                     | 2021 年 12 月 |
 | ネットワークスペシャリスト                         | 2022 年 6 月  |
